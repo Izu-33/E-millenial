@@ -16,3 +16,5 @@
   A second modal was made to confirm checkout (payment).
   
   __UI graphics and features were given__.
+  
+  [Link to the site](https://izu-33.github.io/E-millenial/)
